@@ -54,7 +54,7 @@ main(){
 		cout<<"(7) Conversión de números enteros con decimal a letras"<<endl;
 		cout<<"(8) Una tabla de multiplicar "<<endl;
 		cout<<"(9) Todas las tablas de multiplicar del 1 al 10 "<<endl;
-		cout<<"(10) ñlol "<<endl;
+		cout<<"(10) ) Crear de forma gráfica la multiplicación manual "<<endl;
 		cout<<"(11) Conversión de números decimales a binario"<<endl;
 		cout<<"(12) Conversión de números decimales a hexadecimales "<<endl;
 		cout<<"(13) Crear Figuras Geométricas Básicas "<<endl;	
