@@ -64,7 +64,8 @@ main(){
 		cout<<"(17) Base de datos con grafica "<<endl;
 		cout<<"(18) Signo Zodiacal "<<endl;
 		cout<<"(19) Calculo de Salario por horas trabajadas"<<endl;
-	    cout<<"(20) salir "<<endl;
+	    cout<<"(20) Piramide de Pitagoras "<<endl;
+	    cout<<"(21) salir "<<endl;
 	    
 		cout<<"Digite una opcion: ";
 		cin>>op;
